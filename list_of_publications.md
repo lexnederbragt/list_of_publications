@@ -1,5 +1,9 @@
 # Preprints
 
+Tørresen, O. K., Brieuc, M. S. O., Solbakken, M. H., Sørhus, E., **Nederbragt, A. J.**, Jakobsen, K. S., Meier, S., Edvardsen, R. B., & Jentoft, S. (2017). Genomic architecture of codfishes featured by expansions of innate immune genes and short tandem repeats. <em>BioRxiv</em>, 163949. <a href="https://doi.org/10.1101/163949" class="uri">https://doi.org/10.1101/163949</a>
+
+
+
 Varadharajan, S., Sandve, S. R., Tørresen, O. K., Lien, S., Vollestad, L. A., Jentoft, S., **Nederbragt, A. J.**, & Jakobsen, K. S. (2017). The grayling genome reveals selection on gene expression regulation after whole genome duplication. <em>BioRxiv</em>, 153270. <a href="https://doi.org/10.1101/153270" class="uri">https://doi.org/10.1101/153270</a>
 
 
@@ -7,6 +11,10 @@ Varadharajan, S., Sandve, S. R., Tørresen, O. K., Lien, S., Vollestad, L. A., J
 # Peer-reviewed publications
 
 Elgvin, T. O., Trier, C. N., Tørresen, O. K., Hagen, I. J., Lien, S., **Nederbragt, A. J.**, Ravinet, M., Jensen, H., & Sætre, G.-P. (2017). The genomic mosaicism of hybrid speciation. <em>Science Advances</em>, <em>3</em>(6), e1602996. <a href="https://doi.org/10.1126/sciadv.1602996" class="uri">https://doi.org/10.1126/sciadv.1602996</a>
+
+
+
+Khelik, K., Lagesen, K., Sandve, G. K., Rognes, T., & **Nederbragt, A. J.** (2017). NucDiff: In-depth characterization and annotation of differences between two sets of DNA sequences. <em>BMC Bioinformatics</em>, <em>18</em>, 338. <a href="https://doi.org/10.1186/s12859-017-1748-z" class="uri">https://doi.org/10.1186/s12859-017-1748-z</a>
 
 
 
