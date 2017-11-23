@@ -1,0 +1,19 @@
+# export cllections from zotero
+
+echo "# Preprints" > list_of_publications.md && \
+pandoc -S --filter pandoc-citeproc  preprints.md  | pandoc -t markdown_github |sed 's/<p>//g' | sed 's/<\/p>//g' | sed 's/Nederbragt, A. J./**Nederbragt, A. J.**/g' >> list_of_publications.md
+
+echo "# Peer-reviewed publications" >> list_of_publications.md && \
+pandoc -S --filter pandoc-citeproc  peer-reviewed.md  | pandoc -t markdown_github |sed 's/<p>//g' | sed 's/<\/p>//g' | sed 's/Nederbragt, A. J./**Nederbragt, A. J.**/g' | sed 's/Nederbragt, L./**Nederbragt, L.**/g' >> list_of_publications.md
+
+echo "# Book chapters" >> list_of_publications.md && \
+pandoc -S --filter pandoc-citeproc  book-chapters.md  | pandoc -t markdown_github |sed 's/<p>//g' | sed 's/<\/p>//g' | sed 's/Nederbragt, A. J./**Nederbragt, A. J.**/g' >> list_of_publications.md
+
+echo "# Software publications" >> list_of_publications.md && \
+pandoc -S --filter pandoc-citeproc  software.md  | pandoc -t markdown_github |sed 's/<p>//g' | sed 's/<\/p>//g' | sed 's/Nederbragt, A. J/**Nederbragt, A. J**/g' >> list_of_publications.md
+
+echo "# Published lesson materials" >> list_of_publications.md && \
+pandoc -S --filter pandoc-citeproc  lesson-materials.md  | pandoc -t markdown_github |sed 's/<p>//g' | sed 's/<\/p>//g' | sed 's/Nederbragt, L./**Nederbragt, L.**/g' >> list_of_publications.md
+
+
+pandoc -S -H format.sty -V fontsize=12pt -o list_of_publications.pdf --filter pandoc-citeproc  list_of_publications.md && open list_of_publications.pdf
