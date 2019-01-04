@@ -1,4 +1,4 @@
-# Preprints
+## Preprints
 
 Tørresen, O. K., Brieuc, M. S. O., Solbakken, M. H., Sørhus, E., **Nederbragt, A. J.**, Jakobsen, K. S., Meier, S., Edvardsen, R. B., & Jentoft, S. (2017). Genomic architecture of codfishes featured by expansions of innate immune genes and short tandem repeats. <em>BioRxiv</em>, 163949. <a href="https://doi.org/10.1101/163949" class="uri">https://doi.org/10.1101/163949</a>
 
@@ -8,7 +8,7 @@ Varadharajan, S., Sandve, S. R., Tørresen, O. K., Lien, S., Vollestad, L. A., J
 
 
 
-# Peer-reviewed publications
+## Peer-reviewed publications
 
 Elgvin, T. O., Trier, C. N., Tørresen, O. K., Hagen, I. J., Lien, S., **Nederbragt, A. J.**, Ravinet, M., Jensen, H., & Sætre, G.-P. (2017). The genomic mosaicism of hybrid speciation. <em>Science Advances</em>, <em>3</em>(6), e1602996. <a href="https://doi.org/10.1126/sciadv.1602996" class="uri">https://doi.org/10.1126/sciadv.1602996</a>
 
@@ -46,7 +46,7 @@ Star, B., **Nederbragt, A. J.**, Jentoft, S., Grimholt, U., Malmstrøm, M., Greg
 
 
 
-# Book chapters
+## Book chapters
 
 Tørresen, O. K., Rise, M. L., Jin, X., Star, B., MacKenzie, S., Jakobsen, K. S., **Nederbragt, A. J.**, & Jentoft, S. (2016). 3 - An improved version of the Atlantic cod genome and advancements in functional genomics: Implications for the future of cod farming. In <em>Genomics in Aquaculture</em> (pp. 45–72). San Diego: Academic Press. Retrieved from <a href="http://www.sciencedirect.com/science/article/pii/B9780128014189000032" class="uri">http://www.sciencedirect.com/science/article/pii/B9780128014189000032</a>
 
@@ -56,13 +56,13 @@ Tørresen, O. K., Star, B., Jentoft, S., Jakobsen, K. S., & **Nederbragt, A. J.*
 
 
 
-# Software publications
+## Software publications
 
 Crusoe, M. R., Alameldin, H. F., Awad, S., Boucher, E., Caldwell, A., Cartwright, R., Charbonneau, A., Constantinides, B., Edvenson, G., Fay, S., Fenton, J., Fenzl, T., Fish, J., Garcia-Gutierrez, L., Garland, P., Gluck, J., González, I., Guermond, S., Guo, J., Gupta, A., Herr, J. R., Howe, A., Hyer, A., Härpfer, A., Irber, L., Kidd, R., Lin, D., Lippi, J., Mansour, T., McA’Nulty, P., McDonald, E., Mizzi, J., Murray, K. D., Nahum, J. R., Nanlohy, K., **Nederbragt, A. J**., Ortiz-Zuazaga, H., Ory, J., Pell, J., Pepe-Ranney, C., Russ, Z. N., Schwarz, E., Scott, C., Seaman, J., Sievert, S., Simpson, J., Skennerton, C. T., Spencer, J., Srinivasan, R., Standage, D., Stapleton, J. A., Steinman, S. R., Stein, J., Taylor, B., Trimble, W., Wiencko, H. L., Wright, M., Wyss, B., Zhang, Q., zyme, en, & Brown, C. T. (2015). The khmer software package: Enabling efficient nucleotide sequence analysis. <em>F1000Research</em>. <a href="https://doi.org/10.12688/f1000research.6924.1" class="uri">https://doi.org/10.12688/f1000research.6924.1</a>
 
 
 
-# Published lesson materials
+## Published lesson materials
 
 Achterberg, H., Adams, J., Adelman, J., Allen, J., Aranda, J., Bae, S., Banaszkiewicz, P., Barmby, P., Barr, E., Beitey, D., Bekolay, T., Berghold, J., Bjørnstad, M., Blischak, J., Boissonneault, M., Bosley, C., Bostroem, A., Boughton, A., Brase, R., Brown, A., Brown, K., Cabunoc Mayes, A., Carroll, I., Chase, J., Childs, S., Choi, J., Clare, R., Clayton, S., Cock, P., Connell, M., Corvellec, M., Coudrat, T., Dale, R., Davis, M., Davis, N., Davison, A., Demichelis, R., Devenyi, G. A., Dolson, E., Dotson, D., Duchesne, L., Duckles, J., Emonet, R., Endsley, K. A., Fauchereau, N., Ford, T., Förstner, K., Gonzalez, I., Gosmann, J., Gosset, J., Gray, J., Greshake, B., Guillou, S., Haley, M., Hames, S., Hamrick, J. B., Hannon, E., Hansen, M., Hertweck, K., Hinsen, K., Hjelm, J., Hodges, T., Howard, D., Irving, D., Jackson, M., Jolly, B., Jones, N., Joyce, B., Ketcheson, D., King, W. T., Klerke, S., Ko, L., Kwong, A., Laken, B., Lapp, H., Latornell, D., Leeman, J. R., Leyder, J.-C., Ligtenberg, W., Lin, J., Lonsdale, A., Manhaes Savio, A., May, R., Mazur, D., Michonneau, F., Mills, B., Mughal, Z., **Nederbragt, L.**, Neufeld, R., O’Leary, A., Obeng, A., Ory, J., Osiecka, N., Pipitone, J., Pińska, A., Poisot, T., Pomorski, P., Raghupathy, N., Rathgeber, F., Rawls, M., Richie-Halford, A., Riley, J., Robitaille, T., Rokem, A., Roswell, M., Sadjadi, M., Sales de Andrade, E., Schmeier, S., Sheneman, L., Shiffer, A., Shkurti, A., Silva, R., Soranzo, N., Spence, E., Srinath, A., Staneva, V., Stapleton, J., Stucky, B., Taylor, C., Teal, T., Telenczuk, B., Thomas, I., Thorne, B., Torres, G., Tröndle, T., Upani, J., Vahtras, O., Helm, E. van der, Walsh, A., Walter, N., Weitzel, D., Wheeler, D., White, E., Williamson, E. P., Willmore, F., Wilson, A., Wilson, G., Xiao, X., & Zonca, A. (2017, February). Software Carpentry: Programming with Python. Retrieved from <a href="https://zenodo.org/record/278222#.WUvbc3XytE4" class="uri">https://zenodo.org/record/278222\#.WUvbc3XytE4</a>
 
