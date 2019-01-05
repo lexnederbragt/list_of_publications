@@ -1,6 +1,9 @@
 # export collections from zotero
 # do not change or remove the .md files, except list_of_publications.md
 
+# WIP: use of cli-zotero.py
+# See https://www.evernote.com/shard/s7/nl/796278/e03347f3-fccb-4a40-9d18-0c97d7dd2855
+
 rm list_of_publications.md
 
 echo "# Preprints" > list_of_publications.md && \

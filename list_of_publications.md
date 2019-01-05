@@ -8,7 +8,7 @@ Khelik, K., **Nederbragt, A. J.**, Sandve, G. K., & Rognes, T. (2018). NucMerge:
 
 
 
-NucBreak: Location of structural errors in a genome assembly by using paired-end Illumina reads bioRxiv. (n.d.). Retrieved from <a href="https://www.biorxiv.org/content/early/2018/11/29/393488" class="uri">https://www.biorxiv.org/content/early/2018/11/29/393488</a>
+Khelik, K., Sandve, G. K., **Nederbragt, A. J.**, & Rognes, T. (2018). NucBreak: Location of structural errors in a genome assembly by using paired-end Illumina reads. <em>bioRxiv</em>. <a href="https://doi.org/10.1101/393488" class="uri">https://doi.org/10.1101/393488</a>
 
 
 # Peer-reviewed publications
@@ -18,6 +18,10 @@ Jørgensen, T. E., Karlsen, B. O., Emblem, Å., Breines, R., Andreassen, M., Rou
 
 
 Lie, K. K., Tørresen, O. K., Solbakken, M. H., Rønnestad, I., Tooming-Klunderud, A., **Nederbragt, A. J.**, Jentoft, S., & Sæle, Ø. (2018). Loss of stomach, loss of appetite? Sequencing of the ballan wrasse (Labrus bergylta) genome and intestinal transcriptomic profiling illuminate the evolution of loss of stomach function in fish. <em>BMC Genomics</em>, <em>19</em>, 186. <a href="https://doi.org/10.1186/s12864-018-4570-8" class="uri">https://doi.org/10.1186/s12864-018-4570-8</a>
+
+
+
+Tørresen, O. K., Brieuc, M. S. O., Solbakken, M. H., Sørhus, E., **Nederbragt, A. J.**, Jakobsen, K. S., Meier, S., Edvardsen, R. B., & Jentoft, S. (2018). Genomic architecture of haddock (Melanogrammus aeglefinus) shows expansions of innate immune genes and short tandem repeats. <em>BMC Genomics</em>, <em>19</em>. <a href="https://doi.org/10.1186/s12864-018-4616-y" class="uri">https://doi.org/10.1186/s12864-018-4616-y</a>
 
 
 
@@ -133,11 +137,7 @@ Star, B., **Nederbragt, A. J.**, Jentoft, S., Grimholt, U., Malmstrøm, M., Greg
 
 
 
-Løvoll, M., Wiik-Nielsen, J., Grove, S., Wiik-Nielsen, C. R., Kristoffersen, A. B., Faller, R., Poppe, T., Jung, J., Pedamallu, C. S., **Nederbragt, A. J.**, Meyerson, M., Rimstad, E., & Tengs, T. (2010a). A novel totivirus and piscine reovirus (PRV) in Atlantic salmon (Salmo salar) with cardiomyopathy syndrome (CMS). <em>Virology Journal</em>, <em>7</em>(1), 309. <a href="https://doi.org/10.1186/1743-422X-7-309" class="uri">https://doi.org/10.1186/1743-422X-7-309</a>
-
-
-
-Løvoll, M., Wiik-Nielsen, J., Grove, S., Wiik-Nielsen, C. R., Kristoffersen, A. B., Faller, R., Poppe, T., Jung, J., Pedamallu, C. S., **Nederbragt, A. J.**, Meyerson, M., Rimstad, E., & Tengs, T. (2010b). A novel totivirus and piscine reovirus (PRV) in Atlantic salmon (Salmo salar) with cardiomyopathy syndrome (CMS). <em>Virology Journal</em>, <em>7</em>(1), 309. <a href="https://doi.org/10.1186/1743-422X-7-309" class="uri">https://doi.org/10.1186/1743-422X-7-309</a>
+Løvoll, M., Wiik-Nielsen, J., Grove, S., Wiik-Nielsen, C. R., Kristoffersen, A. B., Faller, R., Poppe, T., Jung, J., Pedamallu, C. S., **Nederbragt, A. J.**, Meyerson, M., Rimstad, E., & Tengs, T. (2010). A novel totivirus and piscine reovirus (PRV) in Atlantic salmon (Salmo salar) with cardiomyopathy syndrome (CMS). <em>Virology Journal</em>, <em>7</em>(1), 309. <a href="https://doi.org/10.1186/1743-422X-7-309" class="uri">https://doi.org/10.1186/1743-422X-7-309</a>
 
 
 
@@ -186,10 +186,6 @@ Lespinet, O., **Nederbragt, A. J.**, Cassan, M., Dictus, W. J., Loon, A. E. van,
 
 
 Kooij, A. van der, **Nederbragt, A. J.**, Goedemans, H. J., & Loon, A. van. (1996). The stringlike genes of the limpet Patella vulgata. <em>Gene</em>, <em>172</em>(2), 261–265. <a href="https://doi.org/10.1016/0378-1119(96)00164-3" class="uri">https://doi.org/10.1016/0378-1119(96)00164-3</a>
-
-
-
-Genomic architecture of haddock (Melanogrammus aeglefinus) shows expansions of innate immune genes and short tandem repeats. (n.d.). Retrieved from <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894186/" class="uri">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894186/</a>
 
 
 # Thesis
