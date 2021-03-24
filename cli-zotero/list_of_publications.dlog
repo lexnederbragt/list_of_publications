@@ -1,0 +1,3 @@
+Translating doconce text in list_of_publications.do.txt to html
+BIBFILE: preprints.bib
+*** error: illegal publish database preprints.bib (must have .pub extension)

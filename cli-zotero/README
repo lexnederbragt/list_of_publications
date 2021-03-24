@@ -1,0 +1,5 @@
+
+conda activate pyzotero
+python /Users/alexajo/github/cli-zotero/cli-zotero.py --user 3965838 --list-collections |  python update_bib.py
+
+BUG: some years are changed to 2021, e.g. Good Enough Practices paper.
