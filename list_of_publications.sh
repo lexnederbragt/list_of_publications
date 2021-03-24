@@ -27,6 +27,11 @@ echo "# Published lesson materials"
 echo "# Published lesson materials" >> list_of_publications.md && \
 pandoc -s --citeproc -t gfm lesson-materials.md | sed 's/<p>//g' | sed 's/<\/p>//g' | sed 's/Nederbragt, L./**Nederbragt, L.**/g' >> list_of_publications.md
 
+## hack to fix <div> <\div> tags
+
+mv list_of_publications.md list_of_publications.md.bak
+cat list_of_publications.md.bak | grep -v '<div' | grep -v '</div>' | grep -v 'line-spacing' > list_of_publications.md
+
 echo "# Creating PDF"
 # added workaround for "Argument of \paragraph has an extra }." error
 # as per https://stackoverflow.com/questions/42916124/not-able-to-use-titlesec-with-markdown-and-pandoc

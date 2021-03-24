@@ -3,6 +3,8 @@ do not change or remove the .md files, except list_of_publications.md
 
 sh list_of_publications.sh
 
+BUG: remaining <div> <\div> tags, hacky fix in the script for now.
+
 WIP: use of cli-zotero.py
 See https://www.evernote.com/shard/s7/nl/796278/e03347f3-fccb-4a40-9d18-0c97d7dd2855
 An cli-zotero/readme
