@@ -1,44 +1,16 @@
 
-@article{khelik_nucmerge:_2018,
-	title = {{NucMerge}: {Genome} assembly quality improvement assisted by alternative assemblies and paired-end {Illumina} reads},
-	copyright = {© 2018, Posted by Cold Spring Harbor Laboratory. This pre-print is available under a Creative Commons License (Attribution 4.0 International), CC BY 4.0, as described at http://creativecommons.org/licenses/by/4.0/},
-	shorttitle = {{NucMerge}},
-	url = {https://www.biorxiv.org/content/early/2018/11/30/483701},
-	doi = {10.1101/483701},
-	abstract = {Background: In spite of the major breakthroughs in the second-generation sequencing technologies and the developments of a plethora of assemblers over the last ten years, the resulting genome assemblies may still be fragmented and contain errors. It is typical in genome projects with second-generation reads involved to run multiple assemblers with different parameters and choose the best assembly. However, such an approach is always a trade-off between the strengths and weaknesses of the assemblies. To exploit the advantages of different assemblers, an alternative approach that combines the best parts of several assemblies into one may be applied. The existing tools based on such an approach assist in elongation of assembly fragments and/or improvement of assembly accuracy. Though there has been progress with such a strategy, there is still room for improvement of the existing tools. Results: We present NucMerge, a tool for improving genome assembly accuracy by incorporating information derived from an alternative assembly and paired-end Illumina reads from the same genome. The tool corrects insertion, deletion, substitution, and inversion errors and locates different inter- and intra-chromosomal rearrangement errors. NucMerge was compared to two existing alternatives, namely Metassembler and GAM-NGS. Conclusions: The benchmarking results show that NucMerge has generally better performance than the other tools tested, providing accuracy improvement of more assemblies. NucMerge is freely available at https://github.com/uio-bmi/NucMerge under the MPL license.},
-	language = {en},
-	urldate = {2019-01-04},
-	journal = {bioRxiv},
-	author = {Khelik, Ksenia and Nederbragt, Alexander Johan and Sandve, Geir Kjetil and Rognes, Torbjørn},
-	month = nov,
-	year = {2018},
-	pages = {483701},
-	file = {Full Text PDF:/Users/alexajo/Zotero/storage/E8SKK7M2/Khelik et al. - 2018 - NucMerge Genome assembly quality improvement assi.pdf:application/pdf;Snapshot:/Users/alexajo/Zotero/storage/9AA25VDN/483701.html:text/html}
+@article{khelik2018NucMerge,
+  title = {{{NucMerge}}: {{Genome}} Assembly Quality Improvement Assisted by Alternative Assemblies and Paired-End {{Illumina}} Reads},
+  shorttitle = {{{NucMerge}}},
+  author = {Khelik, Ksenia and Nederbragt, Alexander Johan and Sandve, Geir Kjetil and Rognes, Torbj{\o}rn},
+  year = {2018},
+  month = nov,
+  pages = {483701},
+  doi = {10.1101/483701},
+  abstract = {Background: In spite of the major breakthroughs in the second-generation sequencing technologies and the developments of a plethora of assemblers over the last ten years, the resulting genome assemblies may still be fragmented and contain errors. It is typical in genome projects with second-generation reads involved to run multiple assemblers with different parameters and choose the best assembly. However, such an approach is always a trade-off between the strengths and weaknesses of the assemblies. To exploit the advantages of different assemblers, an alternative approach that combines the best parts of several assemblies into one may be applied. The existing tools based on such an approach assist in elongation of assembly fragments and/or improvement of assembly accuracy. Though there has been progress with such a strategy, there is still room for improvement of the existing tools. Results: We present NucMerge, a tool for improving genome assembly accuracy by incorporating information derived from an alternative assembly and paired-end Illumina reads from the same genome. The tool corrects insertion, deletion, substitution, and inversion errors and locates different inter- and intra-chromosomal rearrangement errors. NucMerge was compared to two existing alternatives, namely Metassembler and GAM-NGS. Conclusions: The benchmarking results show that NucMerge has generally better performance than the other tools tested, providing accuracy improvement of more assemblies. NucMerge is freely available at https://github.com/uio-bmi/NucMerge under the MPL license.},
+  copyright = {\textcopyright{} 2018, Posted by Cold Spring Harbor Laboratory. This pre-print is available under a Creative Commons License (Attribution 4.0 International), CC BY 4.0, as described at http://creativecommons.org/licenses/by/4.0/},
+  journal = {bioRxiv},
+  language = {en}
 }
 
-@article{grytten_graph_2018,
-	title = {Graph {Peak} {Caller}: calling {ChIP}-{Seq} {Peaks} on {Graph}-based {Reference} {Genomes}},
-	copyright = {© 2018, Posted by Cold Spring Harbor Laboratory. This pre-print is available under a Creative Commons License (Attribution 4.0 International), CC BY 4.0, as described at http://creativecommons.org/licenses/by/4.0/},
-	shorttitle = {Graph {Peak} {Caller}},
-	url = {https://www.biorxiv.org/content/early/2018/04/06/286823},
-	doi = {10.1101/286823},
-	abstract = {Graph-based representations are considered to be the future for reference genomes, as they allow integrated representation of the steadily increasing data on individual variation. Currently available tools allow de novo assembly of graph-based reference genomes, alignment of new read sets to the graph representation as well as certain analyses like variant-calling and haplotyping. We here present a first method for calling ChIP-Seq peaks on read data aligned to a graph-based reference genome. The method is a graph generalization of the peak caller MACS2 and is implemented in an open source tool, Graph Peak Caller. By using the existing tool vg to build a pan-genome of Arabidopsis thaliana, we validate our approach by showing that Graph Peak Caller with a pan-genome reference graph can trace variants within peaks that are not part of the linear reference genome, and find peaks that in general are more motif-enriched than those found by MACS2.},
-	language = {en},
-	urldate = {2019-01-04},
-	journal = {bioRxiv},
-	author = {Grytten, Ivar and Rand, Knut Dagestad and Nederbragt, Alexander J. and Storvik, Geir Olve and Glad, Ingrid Kristine and Sandve, Geir Kjetil},
-	month = apr,
-	year = {2018},
-	pages = {286823},
-	file = {Full Text PDF:/Users/alexajo/Zotero/storage/RDHHKTUF/Grytten et al. - 2018 - Graph Peak Caller calling ChIP-Seq Peaks on Graph.pdf:application/pdf;Snapshot:/Users/alexajo/Zotero/storage/BUXHDGHH/286823.html:text/html}
-}
 
-@article{khelik_nucbreak:_2018,
-	title = {{NucBreak}: {Location} of structural errors in a genome assembly by using paired-end {Illumina} reads},
-	url = {https://www.biorxiv.org/content/early/2018/11/29/393488},
-	doi = {10.1101/393488},
-	abstract = {Background: Advances in whole genome sequencing strategies have provided the opportunity for genomic and comparative genomic analysis of a vast variety of organisms. The analysis results are highly dependent on the quality of the genome assemblies used. Assessment of the assembly accuracy may significantly increase the reliability of the analysis results and is therefore of great importance. Results: Here, we present a new tool called NucBreak aimed at detecting structural errors in assemblies, including insertions, deletions, duplications, inversions, and different inter- and intra-chromosomal rearrangements. NucBreak analyses the alignments of reads properly mapped to an assembly and exploits information about the alternative read alignments. We have compared NucBreak with other existing assembly accuracy assessment tools, namely Pilon, REAPR, and FRCbam as well as with several structural variant detection tools, including BreakDancer, Lumpy, and Wham, by using both simulated and real datasets. Conclusions: The benchmarking results have shown that NucBreak in general predicts assembly errors of different types and sizes with relatively high sensitivity and with higher precision than the other tools. Such a balance between sensitivity and precision makes NucBreak a good alternative to the existing assembly accuracy assessment tools and SV detection tools. NucBreak is freely available at https://github.com/uio-bmi/NucBreak under the MPL license.},
-	journal = {bioRxiv},
-	author = {Khelik, Ksenia and Sandve, Geir Kjetil and Nederbragt, Alexander Johan and Rognes, Torbjørn},
-	year = {2018}
-}
